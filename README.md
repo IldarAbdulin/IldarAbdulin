@@ -28,20 +28,6 @@ I am dedicated to continuous learning and stay up-to-date with the latest librar
 
 Here are the technologies, languages, and libraries I have expertise in:
 
-[![HTML5](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge&logo=html&logoColor=white)](https://ru.wikipedia.org/wiki/HTML5)
-
-[![CSS3](https://img.shields.io/badge/CSS3-blue.svg?style=for-the-badge&logo=css&logoColor=white)](https://ru.wikipedia.org/wiki/CSS)
-[![SASS](https://img.shields.io/badge/SASS-CF649A.svg?style=for-the-badge&logo=sass&logoColor=white)](https://ru.wikipedia.org/wiki/CSS)
-[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Material_UI](https://img.shields.io/badge/Material_UI-blue.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-
-[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7E018.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://ru.wikipedia.org/wiki/JavaScript)
-[![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-[![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23F05032&style=for-the-badge&logo=git&logoColor=%23FFFFFF)](https://git-scm.com/)
-
-[![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)](https://firebase.google.com/?gad_source=1)
-
 [![REACT](https://img.shields.io/badge/react-58C4DC.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 
 [![REDUX](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
@@ -49,10 +35,24 @@ Here are the technologies, languages, and libraries I have expertise in:
 [![REDUX_TOOLKIT](https://img.shields.io/badge/REDUX_TOOLKIT-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 ![REDUX-THUNK](https://img.shields.io/badge/REDUX_THUNK-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 
+[![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7E018.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://ru.wikipedia.org/wiki/JavaScript)
+[![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
 [![NEXT_JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+
+[![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23F05032&style=for-the-badge&logo=git&logoColor=%23FFFFFF)](https://git-scm.com/)
+
+[![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)](https://firebase.google.com/?gad_source=1)
+
+[![HTML5](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge&logo=html&logoColor=white)](https://ru.wikipedia.org/wiki/HTML5)
+
+[![CSS3](https://img.shields.io/badge/CSS3-blue.svg?style=for-the-badge&logo=css&logoColor=white)](https://ru.wikipedia.org/wiki/CSS)
 
 [![REACT_ROUTER](https://img.shields.io/badge/REACT_ROUTER-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
 [![REACT_HOOK_FORM](https://img.shields.io/badge/REACT_HOOK_FORM-EA4E84?style=for-the-badge&logo=react-hook&logoColor=white)](https://www.react-hook-form.com/)
+[![SASS](https://img.shields.io/badge/SASS-CF649A.svg?style=for-the-badge&logo=sass&logoColor=white)](https://ru.wikipedia.org/wiki/CSS)
+[![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Material_UI](https://img.shields.io/badge/Material_UI-blue.svg?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
 [![FRAMER_MOTION](https://img.shields.io/badge/FRAMER_MOTION-C936EE?style=for-the-badge&logo=framer-motion&logoColor=white)](https://www.framer.com/motion/)
 [![AXIOS](https://img.shields.io/badge/AXIOS-764ABC?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/ru/docs/intro)
 [![NPM](https://img.shields.io/badge/NPM-C12E3D?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
