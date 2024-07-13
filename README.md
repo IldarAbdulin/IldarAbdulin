@@ -42,8 +42,6 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 [![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)](https://firebase.google.com/?gad_source=1)
 
-[![REACT](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)](https://firebase.google.com/?gad_source=1)
-
 [![REACT](https://img.shields.io/badge/react-58C4DC.svg?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 
 [![REDUX](https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
