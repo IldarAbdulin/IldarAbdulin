@@ -53,13 +53,13 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 [![NEXT_JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
-[![REACT_ROUTER](https://img.shields.io/badge/-REACT_ROUTER-CA4245?logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
-[![REACT_HOOK_FORM](https://img.shields.io/badge/-REACT_HOOK_FORM-EA4E84?logo=react-hook&logoColor=white)](https://www.react-hook-form.com/)
-[![FRAMER_MOTION](https://img.shields.io/badge/-FRAMER_MOTION-C936EE?logo=framer-motion&logoColor=white)](https://www.framer.com/motion/)
-[![AXIOS](https://img.shields.io/badge/-AXIOS-764ABC?logo=axios&logoColor=white)](https://axios-http.com/ru/docs/intro)
-[![NPM](https://img.shields.io/badge/-NPM-C12E3D?logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![REACT_ROUTER](https://img.shields.io/badge/REACT_ROUTER-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
+[![REACT_HOOK_FORM](https://img.shields.io/badge/REACT_HOOK_FORM-EA4E84?style=for-the-badge&logo=react-hook&logoColor=white)](https://www.react-hook-form.com/)
+[![FRAMER_MOTION](https://img.shields.io/badge/FRAMER_MOTION-C936EE?style=for-the-badge&logo=framer-motion&logoColor=white)](https://www.framer.com/motion/)
+[![AXIOS](https://img.shields.io/badge/AXIOS-764ABC?style=for-the-badge&logo=axios&logoColor=white)](https://axios-http.com/ru/docs/intro)
+[![NPM](https://img.shields.io/badge/NPM-C12E3D?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 
-[![FIGMA](https://img.shields.io/badge/-FIGMA-FF7262?logo=figma&logoColor=white)](https://www.figma.com/)
+[![FIGMA](https://img.shields.io/badge/FIGMA-FF7262?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 [My Frontend Developer CV](https://cv-teal.vercel.app/)
 
