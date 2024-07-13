@@ -1,4 +1,4 @@
-# Abdulin Ildar: Passionate Junior Frontend Developer
+# Ildar Abdulin: Passionate Junior Frontend Developer
 
 Hello, I'm Ildar Abdulin, a Junior Frontend Developer with 1 years of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
 
