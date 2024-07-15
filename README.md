@@ -8,7 +8,7 @@ I studied Frontend Developer for 1 year, during that time I wrote a lot of my pe
 
 [My Frontend Developer CV](https://cv-teal.vercel.app/)
 
-- ### Diploma project
+### Diploma project
 
 - **Auth**: I was given a task with registration, initially I just prepared all the functionality, made modal windows for registration and login, also added simulation of user login, everything worked perfectly, but since the backend developers could not make registration. I had to make registration through firebase.
 
