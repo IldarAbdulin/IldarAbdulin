@@ -42,6 +42,12 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 [![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23F05032&style=for-the-badge&logo=git&logoColor=%23FFFFFF)](https://git-scm.com/)
 
+- [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/)
+- [![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white&style=for-the-badge)](https://gitlab.com/IldarAbdulin)
+
+[![REST_API](https://img.shields.io/badge/rest_api-47A6DC?style=for-the-badge&logo=rest-api&logoColor=white)](https://ru.wikipedia.org/wiki/REST)
+[![GraphQL](https://img.shields.io/badge/GraphQL-F6009C?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+
 [![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)](https://firebase.google.com/?gad_source=1)
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange.svg?style=for-the-badge&logo=html&logoColor=white)](https://ru.wikipedia.org/wiki/HTML5)
