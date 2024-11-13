@@ -6,7 +6,7 @@ Hello, I'm Ildar Abdulin, a Junior Frontend Developer with 1 years of solid expe
 
 I studied Frontend Developer for 1 year, during that time I wrote a lot of my pet projects
 
-[My Frontend Developer CV](https://cv-teal.vercel.app/)
+<!-- [My Frontend Developer CV](https://cv-teal.vercel.app/) -->
 
 ## Work experience
 
@@ -74,7 +74,7 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 [![FIGMA](https://img.shields.io/badge/FIGMA-FF7262?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
-[My Frontend Developer CV](https://cv-teal.vercel.app/)
+<!-- [My Frontend Developer CV](https://cv-teal.vercel.app/) -->
 
 <div align="center">
   <a href="https://t.me/RdQeWaEd"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
