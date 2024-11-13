@@ -12,6 +12,7 @@ I studied Frontend Developer for 1 year, during that time I wrote a lot of my pe
 
 - UNO studio ( 7 months experience )
   Junior Frontend Developer
+
   First time I was fixing bugs, then I was designing pages with adding logic, with data acquisition, justifications and changes, by deadlines I always closed everything on time, even took some tasks from other developers so that we all had time to close all tasks before the end of the sprint.
   The format of work was remote, daily standups were also held, and once in two weeks we all gathered in the studio where we worked out tasks for the next sprint.
 
