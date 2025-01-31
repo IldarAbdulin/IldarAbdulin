@@ -1,6 +1,6 @@
-# Ildar Abdulin: Passionate Junior Frontend Developer
+# Ildar Abdulin: Passionate Frontend Developer
 
-Hello, I'm Ildar Abdulin, a Junior Frontend Developer with 1 years of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
+Hello, I'm Ildar Abdulin, a Frontend Developer with 1 years of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
 
 ## My Professional Journey 🚀
 
@@ -10,12 +10,13 @@ I studied Frontend Developer for 1 year, during that time I wrote a lot of my pe
 
 ## Work experience
 
-- UNO studio ( 7 months experience )
-  Junior Frontend Developer
+- BOOSTER studio ( 1 year experience )
 
-  First time I was fixing bugs, then I was designing pages with adding logic, with data acquisition, justifications and changes, by deadlines I always closed everything on time, even took some tasks from other developers so that we all had time to close all tasks before the end of the sprint.
+  At first I was fixing bugs, then I moved on to page layout, adding logic, and working with data - receiving, sending, and changing it. I always met deadlines, and sometimes I took additional tasks from my colleagues so that the team could finish all the tasks before the end of the sprint.
 
-  The format of work was remote, daily standups were also held, and once in two weeks we all gathered in the studio where we worked out tasks for the next sprint.
+  We were developing an app for a sewing room in React using GraphQL. I had no experience with GraphQL before working in the studio, but I quickly learned it in practice.
+
+  I worked remotely and participated in daily standups. Every two weeks, the team would meet in the studio to break down the tasks for the next sprint.
 
 ## Diploma project
 
