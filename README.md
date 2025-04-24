@@ -4,25 +4,33 @@ Hello, I'm Ildar Abdulin, a Frontend Developer with 1 years of solid experience 
 
 ## My Professional Journey 🚀
 
-I studied Frontend Developer for 1 year, during that time I wrote a lot of my pet projects
+I studied Frontend Developer for 2 year, during that time I wrote a lot of my pet projects
 
 <!-- [My Frontend Developer CV](https://cv-teal.vercel.app/) -->
 
 ## Work experience
 
-- BOOSTER studio ( 1 year experience )
+- BOOSTER TECHNOLOGIES ( 1 year experience )
 
-  At first I was fixing bugs, then I moved on to page layout, adding logic, and working with data - receiving, sending, and changing it. I always met deadlines, and sometimes I took additional tasks from my colleagues so that the team could finish all the tasks before the end of the sprint.
+I started by fixing bugs and gradually transitioned to page layout, adding logic, and working with data—retrieving, sending, and modifying it. I always met deadlines and proactively took on additional tasks from colleagues to ensure the team met all deadlines.
 
-  We were developing an app for a sewing room in React using GraphQL. I had no experience with GraphQL before working in the studio, but I quickly learned it in practice.
+I worked remotely with a team on an application for a sewing shop using React and GraphQL. I had no prior experience with GraphQL, but I quickly learned it in the process. We had daily standups, and every two weeks, we gathered at the studio for sprint planning.
 
-  I worked remotely and participated in daily standups. Every two weeks, the team would meet in the studio to break down the tasks for the next sprint.
+In the project, I initially worked in the Sewing team, where I implemented many key features. These included:
 
-## Diploma project
+Phone number, login, and password-based authorization.
 
-- **Auth**: I was given a task with registration, initially I just prepared all the functionality, made modal windows for registration and login, also added simulation of user login, everything worked perfectly, but since the backend developers could not make registration. I had to make registration through firebase.
+A model creation page with extensive business logic: it was possible to create and edit materials, select types of materials, specify timing, add and remove colors, choose units of measurement, write comments, mark them as important, and upload photos.
 
-- **Layout**: On the layout gave two pages user profile and a small part on the main page, in the user profile also displayed the user's data, which he could change, there were no problems
+Implementation of a Kanban board for order details with real-time order progress (e.g., if someone was purchasing materials, it immediately appeared on the board).
+
+Later, I was transferred to a new project called Stock, where I was the sole frontend developer. Some of the most interesting tasks included:
+
+Implementing OAuth authorization.
+
+A warehouse page displaying orders, their details (sizes, amounts), and two viewing modes: tabular and card view with images and brief information.
+
+Integrating a Kanban board to track order statuses in the warehouse.
 
 ## My Focus Areas 🔍
 
